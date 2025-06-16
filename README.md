@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm <span style="color:#e44d26;">Your Name</span></h1>
+<h1 align="center">Hey there 👋, I'm <span style="color:#e44d26;">PRITAM</span></h1>
 <h3 align="center">🚀 Data Analyst | 💻 Full Stack Web Developer | 🐍 Python Enthusiast</h3>
 
 <p align="center">
@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/Pritam-Panigrahi"><img alt="GitHub followers" src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social"></a>
-  <a href="mailto:your.sk9891281@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:sk9891281@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/pritampanigrahi?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://yourportfolio.com"><img alt="Portfolio" src="https://img.shields.io/badge/Visit-Portfolio-green?style=for-the-badge&logo=firefox-browser"></a>
 </p>
