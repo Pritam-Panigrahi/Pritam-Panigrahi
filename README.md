@@ -1,15 +1,18 @@
 <h1 align="center">Hey there 👋, I'm <span style="color:#e44d26;">PRITAM</span></h1>
-<h3 align="center">🚀 Data Analyst | 💻 Full Stack Web Developer | 🐍 Python Enthusiast</h3>
+
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=26A69A&center=true&vCenter=true&width=500&lines=Data+Analyst;Full+Stack+Web+Developer;Python+Enthusiast" alt="Typing SVG" /></a>
+</div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200px" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600px" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Pritam-Panigrahi"><img alt="GitHub followers" src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social"></a>
-  <a href="mailto:sk9891281@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/pritampanigrahi?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://yourportfolio.com"><img alt="Portfolio" src="https://img.shields.io/badge/Visit-Portfolio-green?style=for-the-badge&logo=firefox-browser"></a>
+  <a href="https://github.com/Pritam-Panigrahi"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Pritam-Panigrahi?label=Follow&style=social"></a>
+  <a href="mailto:sk9891281@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/pritampanigrahi?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://yourportfolio.com"><img alt="Portfolio" src="https://img.shields.io/badge/Visit-Portfolio-green?style=for-the-badge&logo=firefox-browser"></a>
 </p>
 
 ---
@@ -58,8 +61,8 @@
 ## 🚀 Tech Stack
 
 ```bash
-💻 Languages:       Python | SQL | HTML | CSS | JavaScript
-🧠 Data Tools:      Pandas | NumPy | Seaborn | Matplotlib | Scikit-learn | Excel
-🌐 Web Frameworks:  Flask | Django | FastAPI
-🛢️ Databases:       PostgreSQL | MySQL | SQLite
-🔧 Dev Tools:        Git | GitHub | Docker | VS Code | Heroku | Netlify
+💻 Languages:       Python | SQL | HTML | CSS | JavaScript
+🧠 Data Tools:      Pandas | NumPy | Seaborn | Matplotlib | Scikit-learn | Excel
+🌐 Web Frameworks:  Flask | Django | FastAPI
+🛢️ Databases:       PostgreSQL | MySQL | SQLite
+🔧 Dev Tools:        Git | GitHub | Docker | VS Code | Heroku | Netlify
